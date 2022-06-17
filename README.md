@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zomarex17
 - 👀 I’m interested in programing especially mobile developement
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on mobile or web applications
+- 🌱 I’m currently working with Angular and spring boot
 - 📫 How to reach me brahimarfa@gmail.com
 
 <!---
